@@ -1,5 +1,5 @@
 {
-    "name": "jjandxa/flarum-ext-chinese-search",
+    "name": "liuboaibc/flarum-ext-chinese-search",
     "description": "chinese search",
     "version": "0.0.10",
     "type": "flarum-extension",
@@ -15,7 +15,7 @@
         }
     ],
     "support": {
-        "source": "https://github.com/jjandxa/flarum-ext-chinese-search"
+        "source": "https://github.com/liuboaibc/flarum-ext-chinese-search"
     },
     "minimum-stability": "beta",
     "require": {
@@ -35,7 +35,7 @@
     "funding": [
         {
           "type": "website",
-          "url": "https://github.com/jjandxa/flarum-ext-chinese-search"
+          "url": "https://github.com/liuboaibc/flarum-ext-chinese-search"
         }
     ]
 }
